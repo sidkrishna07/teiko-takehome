@@ -120,4 +120,5 @@ CREATE TABLE counts (
 - **Modular functions**: Self-contained analysis types for easy testing and reuse
 - **Configuration-driven**: Database URLs passed as parameters for different environments
 
-This design enables easy testing, clear separation of responsibilities, and straightforward extension for new analysis types. 
+**Deployed Link**
+https://teiko-takehome-sid.streamlit.app/
