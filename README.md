@@ -120,5 +120,3 @@ CREATE TABLE counts (
 - **Modular functions**: Self-contained analysis types for easy testing and reuse
 - **Configuration-driven**: Database URLs passed as parameters for different environments
 
-**Deployed Link**
-https://teiko-takehome-sid.streamlit.app/
